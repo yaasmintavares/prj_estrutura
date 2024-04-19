@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_estrutura_de_repetição\bin\Debug\prj_estrutura_de_repetição.exe.config
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_estrutura_de_repetição\bin\Debug\prj_estrutura_de_repetição.exe
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_estrutura_de_repetição\bin\Debug\prj_estrutura_de_repetição.pdb
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_estrutura_de_repetição\obj\Debug\prj_estrutura_de_repetição.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_estrutura_de_repetição\obj\Debug\prj_estrutura_de_repetição.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_estrutura_de_repetição\obj\Debug\prj_estrutura_de_repetição.exe
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_estrutura_de_repetição\obj\Debug\prj_estrutura_de_repetição.pdb
